@@ -2,7 +2,7 @@
 
 AI-Powered Multimodal Quantum Research Intelligence Platform
 
-## Quick Start - Docker (Recommended)
+## Quick Start - Docker
 
 PowerShell:
 
